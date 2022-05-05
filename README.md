@@ -1,1 +1,1 @@
-This project requires lots of modules to be install in the local machine.
+This project requires lots of module to be install in the local machine.
